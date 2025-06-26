@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ram",
+    "email": "cs3900@srmist.edu.in",
+    "password": "123456"
+  },
+  {
+    "name": "soman",
+    "email": "abc@gmail.com",
+    "password": "123"
+  },
+  {
+    "name": "ramesh",
+    "email": "bnm@gmail.com",
+    "password": "123456"
+  }
+]
